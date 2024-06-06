@@ -1,0 +1,5 @@
+What is the capital of the USA,Washington D.C.,W
+What is the name of them material with the chemical symbol of He?,Helium,H
+What is 1+1?,Two,T
+Where is the college located?,Newcastle,N
+Which country is home to the Great Barrier Reef?,Australia,A
